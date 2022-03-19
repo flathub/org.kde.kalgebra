@@ -25,7 +25,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/analitza-21.12.3.tar.xz",
-                    "sha256": "360ed553993e35e7e700031e679d961340cd8839908eb7228bce02c488aef165"
+                    "sha256": "360ed553993e35e7e700031e679d961340cd8839908eb7228bce02c488aef165",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/analitza-$version.tar.xz"
+                    }
                 }
             ],
 
@@ -38,7 +44,13 @@
                         {
                             "type": "archive",
                             "url": "https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.tar.bz2",
-                            "sha256": "b4c198460eba6f28d34894e3a5710998818515104d6e74e5cc331ce31e46e626"
+                            "sha256": "b4c198460eba6f28d34894e3a5710998818515104d6e74e5cc331ce31e46e626",
+                            "x-checker-data": {
+                                "type": "anitya",
+                                "project-id": 666,
+                                "stable-only": true,
+                                "url-template": "https://gitlab.com/libeigen/eigen/-/archive/$version/eigen-$version.tar.bz2"
+                            }
                         }
                     ]
                 }
@@ -52,7 +64,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kalgebra-21.12.3.tar.xz",
-                    "sha256": "4704cb32098050c4934b0c8b9e8185863bec044d0d61882a13d30205719be020"
+                    "sha256": "4704cb32098050c4934b0c8b9e8185863bec044d0d61882a13d30205719be020",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kalgebra-$version.tar.xz"
+                    }
                 },
                 {
                     "type": "patch",
