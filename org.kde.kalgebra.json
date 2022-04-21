@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/analitza-21.12.3.tar.xz",
-                    "sha256": "360ed553993e35e7e700031e679d961340cd8839908eb7228bce02c488aef165",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/analitza-22.04.0.tar.xz",
+                    "sha256": "0c2b3666982875176bfeb296a9161cc4da2e77673e4f897f9344e8d4533ff15a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -63,18 +63,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kalgebra-21.12.3.tar.xz",
-                    "sha256": "4704cb32098050c4934b0c8b9e8185863bec044d0d61882a13d30205719be020",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kalgebra-22.04.0.tar.xz",
+                    "sha256": "24101ce89806342939c56c283d3f963b9b9b43eb825ff8657202d8d5c796ae9e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kalgebra-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }
             ],
             "post-install": [
