@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kalgebra-22.08.2.tar.xz",
-                    "sha256": "b8d547cb4eb5d3abeb983c210cc345d3157c91b5ce0167e856f7d32d086992d5",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kalgebra-22.08.3.tar.xz",
+                    "sha256": "82e0007a9a71a1771624410449be4a7c2db13fa9583e917b330270265512f977",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
