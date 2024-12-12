@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/analitza-24.08.3.tar.xz",
-                    "sha256": "9f0b7063ea5f5d7c2131d4a6dcccd3275d31a4968ba6eb0920a70ca7fc90d68e",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/analitza-24.12.0.tar.xz",
+                    "sha256": "82b8ae9147cea0fde1c47f75338b499284e273cd2ae2a5902ba0366a7097a575",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -80,8 +80,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/kalgebra-24.08.3.tar.xz",
-                    "sha256": "440f58c3234890614eb04cc85c49cc0c431578a2805fc1be94d6866fd70155d5",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/kalgebra-24.12.0.tar.xz",
+                    "sha256": "a67ced988de126ed57531dc474a118d6b52d9d53918c5ca12627c5f7b02dd64a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
