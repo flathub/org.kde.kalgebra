@@ -41,7 +41,7 @@
                         {
                             "type": "archive",
                             "url": "https://gitlab.com/libeigen/eigen/-/archive/5.0.0/eigen-5.0.0.tar.bz2",
-                            "sha256": "bc5888a4e8538af18d4734c4266a538c7490200f76bc978b66299600189d51c2",
+                            "sha256": "bdca0ec740fb83be21fe038699923f4c589ead9ab904f4058a9c97752e60d50b",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 666,
@@ -63,8 +63,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.5.0/libplasma-6.5.0.tar.xz",
-                    "sha256": "bc9f814944731297e17d93d08f1390506c5d9ad55f5a847e0ae50796837b6ce8",
+                    "url": "https://download.kde.org/stable/plasma/6.5.1/libplasma-6.5.1.tar.xz",
+                    "sha256": "52f21752a3947cf542bec3b7d3e5979d7cdc152b7b47fe6493b8adb051d58a18",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
