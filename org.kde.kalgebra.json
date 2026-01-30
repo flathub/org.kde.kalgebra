@@ -8,13 +8,27 @@
     "command": "kalgebra",
     "rename-icon": "kalgebra",
     "copy-icon": true,
+    "separate-locales": false,
     "finish-args": [
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
         "--device=dri"
     ],
-    "separate-locales": false,
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/mkspecs",
+        "/share/doc",
+        "/share/man",
+        "/share/qlogging-categories6",
+        "*.la",
+        "*.a"
+    ],
+    "cleanup-commands": [
+        "/app/cleanup-BaseApp.sh"
+    ],
     "modules": [
         {
             "name": "analitza",
