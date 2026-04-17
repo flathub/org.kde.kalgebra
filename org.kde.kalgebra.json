@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/analitza-25.12.3.tar.xz",
-                    "sha256": "4f0bc01116d61953d9759f91f943eb9da674f1f048a453d55035f4459c3bfdb7",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/analitza-26.04.0.tar.xz",
+                    "sha256": "2fd1803bcc011515716ed802265e63dc4d34ee6fccbdf6d523f39475eb64431f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -77,8 +77,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.6.2/libplasma-6.6.2.tar.xz",
-                    "sha256": "5e6b889bce201acf7d46bbff1970e6f84a711f44b207fe103aaf37a244da994b",
+                    "url": "https://download.kde.org/stable/plasma/6.6.4/libplasma-6.6.4.tar.xz",
+                    "sha256": "cc7dfd90b4caba4b2b4da1eb5d6c7aaa20b72b9770f511cbc433eadcc5b8e483",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -94,8 +94,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kalgebra-25.12.3.tar.xz",
-                    "sha256": "75ad5abc971c50978fe88f157c3f35f37e6047ea5c9d626c9b74b3fd0ba29015",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kalgebra-26.04.0.tar.xz",
+                    "sha256": "6b6003d6217737eac883a1868feeea9e6f05aad7b1be8d8ee3592cc20903aa12",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
